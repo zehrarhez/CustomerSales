@@ -1,0 +1,15 @@
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\bin\Debug\CustomerSales.exe.config
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\bin\Debug\CustomerSales.exe
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\bin\Debug\CustomerSales.pdb
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\bin\Debug\EntityFramework.dll
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\bin\Debug\EntityFramework.xml
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\obj\Debug\CustomerSales.csproj.AssemblyReference.cache
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\obj\Debug\CustomerSales.Form1.resources
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\obj\Debug\CustomerSales.Properties.Resources.resources
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\obj\Debug\CustomerSales.csproj.GenerateResource.cache
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\obj\Debug\CustomerSales.csproj.CoreCompileInputs.cache
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\obj\Debug\CustomerSales.csproj.CopyComplete
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\obj\Debug\CustomerSales.exe
+C:\Users\brain\source\repos\CustomerSales\CustomerSales\obj\Debug\CustomerSales.pdb
